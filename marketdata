@@ -11,35 +11,31 @@
   "showSymbolLogo": true,
   "backgroundColor": "#ffffff",
   "support_host": "https://www.tradingview.com",
-  "width": 550,
-  "height": 550,
+  "width": "100%",
+  "height": "100%",
   "symbolsGroups": [
     {
       "name": "Indices",
       "symbols": [
         {
-          "name": "FOREXCOM:SPXUSD",
-          "displayName": "S&P 500 Index"
+          "name": "KRX:222800",
+          "displayName": "심텍"
         },
         {
-          "name": "FOREXCOM:NSXUSD",
-          "displayName": "US 100 Cash CFD"
+          "name": "KRX:489500",
+          "displayName": "엘케이켐"
         },
         {
-          "name": "FOREXCOM:DJI",
-          "displayName": "Dow Jones Industrial Average Index"
+          "name": "KRX:141080",
+          "displayName": "리카켐바이오"
         },
         {
-          "name": "INDEX:NKY",
-          "displayName": "Japan 225"
+          "name": "KRX:077970",
+          "displayName": "STX엔진"
         },
         {
-          "name": "INDEX:DEU40",
-          "displayName": "DAX Index"
-        },
-        {
-          "name": "FOREXCOM:UKXGBP",
-          "displayName": "FTSE 100 Index"
+          "name": "KRX:281820",
+          "displayName": "케이씨텍"
         }
       ]
     },
